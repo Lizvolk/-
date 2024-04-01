@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLibrary", "UserLibrary\UserLibrary.csproj", "{A1672D00-DD98-4569-A78D-F434942DCF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserUI", "UserUI\UserUI.csproj", "{0195DAA5-E0A2-4A40-AA56-14BCC81E976E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1672D00-DD98-4569-A78D-F434942DCF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1672D00-DD98-4569-A78D-F434942DCF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1672D00-DD98-4569-A78D-F434942DCF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1672D00-DD98-4569-A78D-F434942DCF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0195DAA5-E0A2-4A40-AA56-14BCC81E976E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0195DAA5-E0A2-4A40-AA56-14BCC81E976E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0195DAA5-E0A2-4A40-AA56-14BCC81E976E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0195DAA5-E0A2-4A40-AA56-14BCC81E976E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3D7F82-8429-46D8-85AB-E02FD7EB7321}
+	EndGlobalSection
+EndGlobal
